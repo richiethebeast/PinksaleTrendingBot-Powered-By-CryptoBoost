@@ -14,7 +14,11 @@
 
 
 ## About
-Introducing the PinkSale Trending Bot, a brainchild of Crypto Boost's in-house development team, crafted with Python expertise. This cutting-edge tool caters to both developers and project owners on the PinkSale launchpad. Effortless to install and operate, the bot leverages simultaneous opening of multiple windows and unique IP addresses, generating clicks at precise intervals. This intricate process forms a robust algorithm, securing your project's prominent listing within the coveted TOP 1-12 on the PinkSale launchpad.
+PinkSale Trending Bot was made by CryptoBoost in-house development team using Payton.
+
+Pinksale trending bot Is a innovative tool that can be used by Developers or project owners on pinksale launchpad 
+its easy to install and use , 
+basically the bot opens multiple windows and unique IP addresses at the same time to generate clicks at precise intervals,  to create a powerful algorithm that will list your project between TOP 1-12 on pinksale launchpad
 
 Version 2.0.1 New! Threading enables Fully compatible with pinksale new Trending Algorithm Major Security Features Updated updated Anti Bot Detection
 
