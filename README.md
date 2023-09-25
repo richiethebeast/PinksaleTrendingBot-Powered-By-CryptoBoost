@@ -1,0 +1,1 @@
+# PinksaleTrendingBot-Powered-By-CryptoBoost
