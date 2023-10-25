@@ -1,4 +1,4 @@
-# PinksaleTrendingBot Powered By CRYPTOBOOST
+# PinksaleTrendingBot Powered By richieTheBull
 
 
 
